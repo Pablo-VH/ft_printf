@@ -44,7 +44,7 @@ cd ft_printf
 make
 ```
 
-# FT_PRINTF Project EN🇬🇧
+# FT_PRINTF EN🇬🇧
 
 ## Introduction
 
